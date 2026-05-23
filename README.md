@@ -1,6 +1,6 @@
 ## Custom Reports
 
-Custom Rerports
+Custom Reports
 
 #### License
 
